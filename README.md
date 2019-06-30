@@ -8,5 +8,5 @@ Formerly a CLI hexadecimal ⇔ decimal converter for a school assignment, I turn
 All you need is **[Python 3.x](http://www.python.org)**.
 Then just go to the project directory and run `python3 badinov.py`.
 
-## Licence
+## License
 GPL v.3
